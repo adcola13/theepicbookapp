@@ -13,6 +13,6 @@ db_name: bookstore
 
 
 # Application Details
-app_repo: https://github.com/pravinmishraaws/theepicbook
+app_repo: https://github.com/adcola13/theepicbookapp
 app_deploy_path: /var/www/epicbook
 app_internal_port: 8080 # Node.js app listening port
